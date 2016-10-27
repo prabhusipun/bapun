@@ -30,7 +30,7 @@
       .content h2 {clear:both;margin-top:500px;color:rgba(255,0,0,1);text-align:center;}
       .content h4 {clear:both;color:rgba(51,51,0,1);text-align: center;}
       .search {text-align:center;}
-     .head h1 a {margin-bottom:100px;text-align:center;text-decoration:none;color: grey;background-image: url("http://www.freewebheaders.com/wordpress/wp-content/gallery/other-backgrounds/pink-lonely-chair-website-header-design.jpg";}
+     .head h1{margin-bottom:100px;text-align:center;text-decoration:none;color: grey;background-image: url("http://www.freewebheaders.com/wordpress/wp-content/gallery/other-backgrounds/pink-lonely-chair-website-header-design.jpg";}
       
       
 @media screen and (min-width:950){
