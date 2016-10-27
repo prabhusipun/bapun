@@ -1,16 +1,25 @@
 
 
       
-   .nav ul {list-style:none;margin-bottom:100px;padding:0;}
-      
-      
-      .nav li {float:left;width:300px;text-align:center; background-color:none;border-right:1px solid white;position:relative; line-height:30px;}
-      
+   body {
      
-       
-      .nav li ul{position:absolute; top:30px;left:0;display:none;}
+      
+     background-image: url("https://cdn.colorlib.com/wp/wp-content/uploads/sites/2/exline-simple-one-page-video-html-template.jpg"); 
+    
+     background-size: cover;
+     background-repeat:no-repeat;
      
-  .nav li:hover ul  {display:block;}
+      /* For IE8 and earlier */
+     
+}
+ .nav ul {list-style:none;margin-bottom:100px;padding:0;}
+      
+      
+ .nav li {float:left;width:300px;text-align:center; background-color:none;border-right:1px solid white;position:relative; line-height:30px;}
+      
+ .nav li ul{position:absolute; top:30px;left:0;display:none;}
+     
+ .nav li:hover ul  {display:block;}
       
       .nav li ul li {float:none; width:150px;text-align:center; border-top:1px solid white;}
       
