@@ -30,15 +30,15 @@
       .content h2 {clear:both;margin-top:500px;color:rgba(255,0,0,1);text-align:center;}
       .content h4 {clear:both;color:rgba(51,51,0,1);text-align: center;}
       .search {text-align:center;}
-     .head h1{margin-bottom:100px;color: grey;background-color: white;text-align:center;}
+     .head h1 a {margin-bottom:100px;color: grey;background-color: white;text-align:center;}
       
       
-@media screen and (max-width:950){
+@media screen and (min-width:950){
   .nav {width: 100%;}
   .content {width:100%;}
   .head {width:100%}
       }
-@media screen and (max-width:640){
+@media screen and (min-width:640){
   .nav {width: 100%;}
   .content {width:100%;}
   .head {width:100%}
