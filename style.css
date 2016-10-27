@@ -4,10 +4,11 @@
    body {
      
       
-     background-image: url("https://cdn.colorlib.com/wp/wp-content/uploads/sites/2/exline-simple-one-page-video-html-template.jpg"); 
+     background-image: url("http://watermarked.cutcaster.com/cutcaster-photo-801120120-Web-browser-background-concept.jpg"); 
     
      background-size: cover;
      background-repeat:no-repeat;
+         opacity:0.5;
      
       /* For IE8 and earlier */
      
