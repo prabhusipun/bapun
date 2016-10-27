@@ -24,7 +24,7 @@
       
       .nav li ul li {float:none; width:150px;text-align:center; border-top:1px solid white;}
       
-      .nav a {color: rgba(0,0,155,1);background-color: NONE;text-decoration:none;}
+      .nav a {color: rgba(10,10,155,1);background-color: NONE;text-decoration:none;}
       
       .nav li:hover{color: blue;background-color:rgba(0,0,0,0.2);}
       .content h2 {clear:both;margin-top:500px;color:rgba(255,0,0,1);text-align:center;}
